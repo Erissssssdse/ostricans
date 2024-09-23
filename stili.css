@@ -1,0 +1,64 @@
+.cioccolato{
+	color: dark;
+	text-align: center;
+}
+
+.popo{
+	color: dark;
+	text-align: center-left;
+	
+}
+body {
+	background-color: pink;
+}
+
+input{
+	margin-top: 6px;
+}
+ol{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#domanda {
+	float; center-left;
+	left: 20px;
+	
+}
+
+
+#footer {
+	position: fixed;
+	top: 200px;
+	left: 40px;
+	width: 200px;
+}
+
+a {
+	font-weight: bold;
+}
+
+.cl{
+	font-family: impact;
+	text-align: center;
+}
+#foto {
+	position: fixed;
+	top: 270px;
+	left: 30px;
+}
+
+#ciao {
+	position: fixed;
+	left: 73px;
+	bottom: 420px;
+	font-weight: bold;
+	color: dark;
+}
+
+#link {
+	position: fixed;
+	top: 900px;
+	left: 90px;
+	font-size: 21px;
+}
